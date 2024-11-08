@@ -39,5 +39,38 @@
             color: blue
         }
     </style>
-<link rel="stylesheet" type="text/css" href="URL">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bienvenido a mi página</h1>
+            <p>Esta es una página de ejemplo para el examen. Aquí se mostrarán algunos errores que debes corregir.</p>
+        </header>
+
+        <div class="image-container">
+            <img src="https://tse4.mm.bing.net/th?id=OIP.EdUOwMWOHsZ1RYjzIlxotgHaHa&pid=Api&P=0&h=180" alt="maquillaje artistico">
+            <p>Esta es una imagen de ejemplo.</p>
+        </div>
+
+        <main>
+            <h2>Lista de elementos</h2>
+            <ul>
+                <li>se basa en hacer arte en los ojos</li>
+                <li>colores extravagantes</li>
+                <li>facil o a veces dificil de hacer</li>
+
+            <h2>Descripción de los elementos</h2>
+            <p>Los elementos listados arriba son ejemplos de cómo se puede estructurar una lista en HTML.</p>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2024 Mi Página Web</p>
+        <footer>
+    </div>
+
+   
+</body>
+</html>
+
+
 
